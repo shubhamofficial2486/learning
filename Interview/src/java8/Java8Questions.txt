@@ -1,0 +1,97 @@
+a list of coding questions related to Java 8 that might be asked during an interview. These questions cover various aspects of Java 8 features, such as lambda expressions, streams, functional interfaces, and more:
+
+1. **Lambda Expressions:**
+   - Write a lambda expression to square each element of a list.
+   - Use lambda expressions to filter a list of strings starting with a specific letter.
+   - Sort a list of strings using lambda expressions based on their lengths.
+
+2. **Streams API:**
+   - Create a stream of integers and find the sum of all elements.
+   - Given a list of names, convert them to uppercase using streams.
+   - Use streams to filter and collect elements from a list.
+
+3. **Functional Interfaces:**
+   - Create a functional interface with a single abstract method and use it with a lambda expression.
+   - Implement a custom functional interface for a specific use case.
+
+4. **Method References:**
+   - Replace a lambda expression with a method reference for a specific scenario.
+   - Use a method reference to create a comparator for sorting a list.
+
+5. **Default Methods:**
+   - Create an interface with a default method and implement it in a class.
+   - Deal with multiple inheritance using default methods.
+
+6. **Optional Class:**
+   - Use `Optional` to handle a potentially null value and provide a default if it's absent.
+   - Implement a method that returns an `Optional` based on certain conditions.
+
+7. **New Date and Time API:**
+   - Calculate the difference between two dates using the `LocalDate` class.
+   - Convert a `LocalDateTime` to a different time zone using the `ZonedDateTime` class.
+
+8. **Streams and Collectors:**
+   - Use the `Collectors` class to group elements of a list by a certain criteria.
+   - Combine multiple streams into one using `Stream.concat()`.
+
+9. **Advanced Stream Operations:**
+   - Implement a custom collector for a specific use case.
+   - Use `flatMap` to flatten nested lists in a stream.
+
+10. **Parallel Streams:**
+    - Convert a sequential stream to a parallel stream and observe the difference in performance.
+    - Identify scenarios where parallel streams might be beneficial.
+
+These coding questions cover a range of Java 8 features and can help assess a candidate's understanding and practical skills with Java 8 programming. During the interview, candidates might be asked to explain their thought process and optimize their solutions.
+ **Here are some common Java 8 coding questions you might encounter in interviews, covering key features like streams, lambda expressions, and functional interfaces:**
+
+**Streams:**
+
+* **Filter elements:**
+    - Remove duplicates from a list.
+    - Find numbers starting with 1.
+    - Find elements greater than a certain value.
+* **Sort elements:**
+    - Sort a list of names alphabetically.
+    - Sort numbers in descending order.
+* **Map elements:**
+    - Convert strings to uppercase.
+    - Square each number in a list.
+    - Create a new list with elements in a different format.
+* **Reduce elements:**
+    - Sum all numbers in a list.
+    - Find the longest string in a list.
+    - Find the most frequent element in a list.
+
+**Lambda Expressions:**
+
+* **Implement simple operations:**
+    - Compare two numbers.
+    - Check if a string is empty.
+* **Apply functions to collections:**
+    - Sort a list using a custom comparator.
+    - Filter a map based on a condition.
+
+**Functional Interfaces:**
+
+* **Use built-in functional interfaces:**
+    - `Predicate`, `Consumer`, `Function`, `Supplier`
+* **Create custom functional interfaces:**
+    - Define a functional interface for a specific operation.
+
+**Other Features:**
+
+* **Optional class:**
+    - Handle potential null values gracefully.
+* **Method references:**
+    - Refer to existing methods concisely.
+* **Default methods in interfaces:**
+    - Add new methods to existing interfaces without breaking compatibility.
+
+**Additional Tips:**
+
+* Practice with a variety of coding challenges to strengthen your Java 8 skills.
+* Understand the core concepts behind streams, lambda expressions, and functional interfaces.
+* Be prepared to explain your code clearly and concisely to the interviewer.
+* Demonstrate good coding practices, such as proper formatting, meaningful variable names, and comments.
+

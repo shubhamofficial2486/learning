@@ -1,0 +1,42 @@
+Certainly! Here are some medium-level coding questions that cover a range of topics including data structures, algorithms, and problem-solving:
+
+1. **Array Manipulation:**
+   - Given an array of integers, find the subarray with the maximum sum (Kadane's Algorithm).
+
+2. **Linked Lists:**
+   - Reverse a linked list.
+   - Detect if a linked list has a cycle.
+
+3. **Strings:**
+   - Given two strings, write a function to check if one is a permutation of the other.
+   - Implement a basic string compression algorithm.
+
+4. **Trees and Graphs:**
+   - Implement an algorithm to check if a binary tree is balanced.
+   - Given a directed graph, implement an algorithm to find a route between two nodes.
+
+5. **Sorting and Searching:**
+   - Implement binary search in a rotated sorted array.
+   - Given a matrix of integers, search for a specific element efficiently.
+
+6. **Dynamic Programming:**
+   - Implement the Fibonacci sequence using dynamic programming to optimize the recursive solution.
+   - Given a set of coins with different denominations, find the minimum number of coins needed to make up a specific amount.
+
+7. **Backtracking:**
+   - Solve the N-Queens problem.
+   - Implement a Sudoku solver.
+
+8. **Greedy Algorithms:**
+   - Implement Huffman Coding for compression.
+   - Given a set of activities with start and end times, find the maximum number of activities that can be performed without overlapping.
+
+9. **Hashing:**
+   - Implement a hash table from scratch.
+   - Given an array of integers, find two numbers such that they add up to a specific target.
+
+10. **Bit Manipulation:**
+    - Write a function to count the number of bits set to 1 in an integer.
+    - Swap two numbers without using a temporary variable.
+
+These medium-level coding questions cover a variety of concepts and are commonly used in technical interviews to assess problem-solving skills and algorithmic thinking.
